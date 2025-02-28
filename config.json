@@ -1,0 +1,18 @@
+{
+    "APP_ID": "692cfb55873b4d1f8a29649a4036ce96",
+    "APP_CERTIFICATE": "2364ad09014f4fe6acea2e51e4b9dcd2",
+    "CUSTOMER_ID": "65ff1163ba314507859d977e4e9a6d29",
+    "CUSTOMER_CERTIFICATE": "6002e75b35ed47e8ba630a7cf88834db",
+    "BUCKET_NAME": "",
+    "BUCKET_ACCESS_KEY": "",
+    "BUCKET_ACCESS_SECRET": "",
+    "CLIENT_ID": "",
+    "CLIENT_SECRET": "",
+    "PSTN_USERNAME": "",
+    "PSTN_PASSWORD": "",
+    "PSTN_NUMBER": "",
+    "SCHEME": "fandayvideo",
+    "ALLOWED_ORIGIN": "",
+    "ENABLE_NEWRELIC_MONITORING": false,
+    "RUN_MIGRATION": true
+}
